@@ -16,4 +16,4 @@ So let us start implementing School Management System with PHP and MySQL.
 
 ## Other Related Information
 
-For Demo, and other details. Follow our website
+For Demo, Demo login and other details. Follow our website
