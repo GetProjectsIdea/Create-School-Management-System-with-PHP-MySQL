@@ -1,0 +1,193 @@
+[13-Apr-2022 23:34:54 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[13-Apr-2022 23:34:54 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:24 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:24 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:26 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:26 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:36 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:36 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:44 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:44 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:45 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:45 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:54 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:14:54 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:16:53 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:16:53 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:02 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:02 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:06 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:06 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:11 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:11 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:16 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:16 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:18 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:18 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:25 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:25 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:43 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/model/add_subject.php on line 11
+[14-Apr-2022 00:17:44 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:17:44 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:18:12 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:18:12 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:25:24 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:25:24 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:27:38 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:27:38 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:27:51 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:27:51 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:28:08 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:28:08 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:28:10 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:28:10 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:32:03 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:32:03 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:32:15 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:32:15 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:33:12 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:33:12 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:33:17 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:33:17 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:35:01 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:35:01 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:35:03 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:35:03 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:36:27 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:36:27 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:39:54 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:39:54 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:39:55 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:39:55 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:40:00 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:40:00 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:40:09 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:40:09 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:40:17 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:40:17 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:42:21 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:42:21 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:42:23 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:42:23 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:42:27 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:42:27 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:50:09 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:50:09 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:55:35 America/Boise] PHP Warning:  Undefined variable $page in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 00:55:35 America/Boise] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php:75
+Stack trace:
+#0 {main}
+  thrown in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/index.php on line 75
+[14-Apr-2022 01:01:04 America/Boise] PHP Warning:  Undefined array key "user_name" in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/model/update_admin_profile.php on line 13
+[14-Apr-2022 01:02:29 America/Boise] PHP Warning:  Undefined array key "user_name" in /home4/dealsoff/public_html/getprojects/demo/php/school-management-system/model/update_parents_profile.php on line 13
